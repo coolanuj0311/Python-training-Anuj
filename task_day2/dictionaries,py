@@ -1,0 +1,8 @@
+'''Dictionaries:
+
+Unordered collections of key-value pairs.
+Mutable (can add, remove, or modify key-value pairs).
+Enclosed in curly braces {}.
+Keys must be unique and immutable.
+Used for efficient lookups by key.
+Example: {"name": "Alice", "age": 30}'''
